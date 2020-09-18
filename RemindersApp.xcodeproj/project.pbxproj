@@ -15,6 +15,7 @@
 		CEF3F36424DF8494008C5859 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEF3F36224DF8494008C5859 /* LaunchScreen.storyboard */; };
 		CEF3F36F24DF8494008C5859 /* RemindersAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF3F36E24DF8494008C5859 /* RemindersAppTests.swift */; };
 		CEF3F37A24DF8494008C5859 /* RemindersAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF3F37924DF8494008C5859 /* RemindersAppUITests.swift */; };
+		CEF3F38824DF9B2E008C5859 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF3F38724DF9B2E008C5859 /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CEF3F37524DF8494008C5859 /* RemindersAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RemindersAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEF3F37924DF8494008C5859 /* RemindersAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemindersAppUITests.swift; sourceTree = "<group>"; };
 		CEF3F37B24DF8494008C5859 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEF3F38724DF9B2E008C5859 /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				CEF3F35924DF8493008C5859 /* SceneDelegate.swift */,
 				CEF3F35B24DF8493008C5859 /* ViewController.swift */,
 				CEF3F35D24DF8493008C5859 /* Main.storyboard */,
+				CEF3F38724DF9B2E008C5859 /* AddViewController.swift */,
 				CEF3F36024DF8494008C5859 /* Assets.xcassets */,
 				CEF3F36224DF8494008C5859 /* LaunchScreen.storyboard */,
 				CEF3F36524DF8494008C5859 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				CEF3F35C24DF8493008C5859 /* ViewController.swift in Sources */,
 				CEF3F35824DF8493008C5859 /* AppDelegate.swift in Sources */,
+				CEF3F38824DF9B2E008C5859 /* AddViewController.swift in Sources */,
 				CEF3F35A24DF8493008C5859 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
